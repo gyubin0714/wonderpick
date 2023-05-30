@@ -1,3 +1,9 @@
+#Eclipse
+.metadata
+
+# 
+.Servers
+
 # Compiled class file
 *.class
 
